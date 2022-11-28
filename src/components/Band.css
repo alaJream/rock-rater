@@ -2,7 +2,9 @@
     height: 300px;
     width: 300px;
     border: 1px solid black;
+    border-radius: .5em;
     margin: 5px;
+    background-color: rgb(167, 167, 167);
   }
   
   .band-name {

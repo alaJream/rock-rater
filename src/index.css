@@ -5,6 +5,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  line-height: 1.5;
+  font-size: 100%;
+  background-image: 
+      url(images/avatars-material/avatars-material-man-5.png),
+      url(images/patterns/minotaur.png),
+      linear-gradient(to bottom, rgba(243,197,189,1) 0%,rgba(232,108,87,1) 33%,rgba(234,40,3,1) 51%,rgba(255,102,0,1) 75%,rgba(199,34,0,1) 100%);
+  background-size: 150px, 100px, auto;
+  background-repeat: no-repeat, repeat, no-repeat;
+  background-position: 0px 150px, center center, center center;
+  color: rgb(252, 252, 252);
+  margin: 0; 
+	padding: 0;
 }
 
 code {

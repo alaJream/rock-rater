@@ -7,7 +7,7 @@ function Heading() {
     return (
       <div className="Header">
         <header>
-        <h1>ACS 1320 Final Assessment</h1>
+        <h1>Rock Rater</h1>
         <small className="Header-Subtitle">Jeremy Gonzales</small>
         </header>
       </div>
